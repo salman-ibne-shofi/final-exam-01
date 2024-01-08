@@ -1,0 +1,28 @@
+/* ----------------
+Banner Section
+------------------- */
+
+.banner-section {
+  background-image: url(/programming-hero-resources/banner-01.png);
+  margin: 0px 50px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.content {
+  padding: 300px 450px;
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+}
+.content p {
+  font-size: 32px;
+}
+.content h2 {
+  font-size: 72px;
+  font-weight: 900px;
+  width: 500px;
+  margin: 0 auto;
+}
