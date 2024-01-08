@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 /* ----------------
 Banner Section
 ------------------- */
@@ -101,4 +103,40 @@ party section
     border: none;
     margin-left: 2%;
     background-color: transparent;
+}
+
+/* -------------------------------------------------------
+venu-date-section
+---------------------------------------------------------- */
+
+.venu-date {
+    text-align: center;
+    padding: 50px;
+    border: 1px solid;
+    margin: 20px;
+    width: 1220px;
+    height: 300px;
+    border-radius: 10px;
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+        margin: 0 auto;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    font-style: normal;
+    font-family: 'Inter', sans-serif;
+    border: none;
+}
+.venu-date span {
+    color: #f00;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+        
+}
+.venu-date button {
+    background-color: #f00;
+    border: none;
+    border-radius: 5px;
+    padding: 16px 20px;
 }
