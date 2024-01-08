@@ -206,3 +206,207 @@ bonus markes section
     font-size: 20px;
     width: 450px;
 }
+
+/* -------------------------------------------
+holidays sale discount section 
+----------------------------------------------*/
+
+.holidays-sale h5 {
+    color: #070211;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 150px;
+}
+.holidays-sale span {
+    color: #f00;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 72px;
+    font-weight: 900;
+}
+.holidays-sale h1 {
+    color: #070211;
+    font-family: "Merriweather", serif;
+    font-size: 72px;
+    font-weight: 900;
+}
+.holidays-sale p {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    width: 50%;
+    margin: 20px auto;
+}
+.holidays-sale {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    width: 1620px;
+    margin: 60px auto;
+}
+.imgs img {
+    display: block;
+}
+.div-01 {
+    margin-left: auto;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: -400px;
+}
+.imgs .img-01 {
+    position: relative;
+    right: -140px;
+}
+.div-02 {
+    position: relative;
+    top: -140px;
+}
+.img-04 {
+    position: relative;
+    top: -140px;
+    z-index: -1;
+}
+.imgs {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+/* ---------------------------------------------
+  gift section
+  ------------------------------------------------ */
+
+.gift-content {
+    text-align: left;
+}
+
+.gift-section {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    width: 1620px;
+    margin: 60px auto;
+}
+
+.gift-section h6 {
+    color: #f00;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.gift-section h2 {
+    color: #070211;
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+.gift-section p {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.image-01 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 18px;
+}
+.image-02 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.scb-01 {
+    color: #070211;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+.scb-02 {
+    color: rgba(7, 2, 17, 0.6);
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn {
+    border-radius: 0px 50px 50px 0px;
+    background: #f00;
+    border: none;
+    width: 210px;
+    height: 72px;
+    margin: 0;
+    margin-left: -5px;
+    font-size: 20px;
+}
+.btn-01 {
+    border-radius: 50px 0px 0px 50px;
+    background: #fff;
+    width: 648px;
+    height: 65px;
+    color: rgba(7, 2, 17, 0.3);
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 5px;
+}
+.box {
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 60px auto;
+    padding: 80px 0;
+}
+footer {
+    background: #070211;
+    color: #ffffff;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.cntnt {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+.imgss1 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.cntnt01 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.hr {
+    margin-left: 120px;
+    margin-right: 120px;
+    border-color: rgba(255, 255, 255, 0.15);
+}
+.icon {
+    width: 20px;
+    height: 20px;
+}
+.finfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.pt {
+    margin: 3px;
+}
